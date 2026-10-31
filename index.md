@@ -1,49 +1,43 @@
-# MiLAB Engineering
+# MiLAB Engineering, Answers Engineered
 
-**Swiss engineering solutions for SMEs — when your problem needs an engineer, not just a printer.**
+**Schweizer ingenieurs Lösungen für ihr Unternehmen — Problemlösung durch schnelle Prototypen, unkompliziert schnell und praktisch.**
 
 ---
 
-## What I do
+## Was machen wir
 
-I help Swiss KMUs solve time-consuming mechanical problems — fast.
+Wir unterstützen Schweizer Unternehmen dabei, ihre Ideen zu realisieren und wiederkehrende Zeitfresser im Arbeitsalltag zu beseitigen. Unsere Lösungen beschleunigen Ihre Prozesse und ermöglichen die Umsetzung Ihrer Projekte.
 
-As a mechanical engineer specializing in rapid prototyping (FDM 3D printing),
-I bridge the gap many companies face: costly production bottlenecks,
-broken or obsolete parts, and custom fixtures nobody has the time
-or in-house expertise to design.
+Mit unserem Ingenieurswissen mit Spezialisierung auf Rapid Prototyping (FDM-3D-Druck) schliessen wir die Lücke, die viele Firmen kennen: Vom Gedanken „Dafür muss es doch eine einfache Lösung geben" bis zum fertigen Produkt in der Hand – für Teile, für die intern weder Zeit noch das nötige Fachwissen vorhanden ist.
 
-- **Problem analysis** — Identify the real root cause, not just the symptom
-- **Rapid prototyping** — Functional prototypes within days, not months
-- **Small-series production** — From 10 to 10'000+ units, made in Switzerland
+- **Lösungsfindung** – Wir ermitteln die pragmatischste und kosteneffizienteste Lösung für Ihr Problem
+- **Rapid Prototyping** – Funktionierende Prototypen in Tagen, nicht Monaten
+- **Kleinserienfertigung** – Je nach Bauteilgrösse von 10 bis 2'000 Stück, hergestellt im FDM Druck in der Schweiz
 
-## Case study: Coffee capsule opener
 
-A consumer goods company needed a robust tool for opening coffee capsules
-in their quality-control process. I designed, iterated and produced
-**2'000 pieces** on FDM printers — from first sketch to delivery
-in record time, at a fraction of injection-molding tooling costs.
+## Fallstudie: Kaffeekapsel-Öffner
 
-*Has your production line been waiting weeks for a simple custom part?
-That's exactly the kind of problem I solve.*
+Die Organisation „Tischlein deck dich" benötigte ein einfaches, aber verlässliches Werkzeug zum Öffnen von Kaffeekapseln. Das Teil wird im Unternehmen mittlerweile liebevoll als „Wunderring" bezeichnet – denn erst diese Lösung ermöglicht es, zukünftig tausende Kapseln vor der Verschwendung zu retten.
 
-## Why MiLAB?
+Wir konstruierten, optimierten und produzierten 2'000 Stück im FDM-3D-Druck – von der ersten Skizze bis zur Auslieferung in Rekordzeit und zu einem Bruchteil der Kosten eines Spritzgusswerkzeugs.
 
-| | |
-|---|---|
-| **Engineer, not operator** | Solutions designed with mechanical engineering fundamentals — material selection, tolerances, load cases |
-| **Speed** | Functional prototypes in days. Small series without tooling costs |
-| **Swiss-based** | Local, personal, and in your language (DE/EN) |
+Wartet Ihr Unternehmen schon seit Wochen auf ein einfaches Spezialteil? Genau für solche Probleme sind wir da.
 
-## About
+## Wieso MiLAB?
 
-MiLAB Engineering was founded by **Mirco Wüthrich**, a mechanical engineer
-passionate about practical, pragmatic solutions for real production problems.
+| **Ingenieur** | Lösungen, entwickelt auf solidem Maschinenbau-Fundament |
+| **Geschwindigkeit** | Funktionierende Prototypen in Tagen, Kleinserien ohne Werkzeugkosten |
+| **Lokal** | Persönlich, nah und unkompliziert |
 
-## Contact
+## Über uns
 
-📧 hello@milab-engineering.ch
-📞 +41 79 XXX XX XX
-📍 Region Zurich, Switzerland *(adapt)*
+Hallo, ich bin Mirco Wüthrich – Ingenieur und jemand, der gerne Probleme anpackt, statt lange drumherumzureden.
 
-*Available for projects evenings & weekends.*
+Meine Leidenschaft für pragmatische Lösungen begann während meines Maschinenbau-Studiums an der ETH Zürich und wurde durch den Kauf meines ersten 3D-Druckers im Jahr 2021 richtig entfacht. Seitdem inspiriert mich meine Arbeit im Produktdesign beim Startup Grivix GmbH, etwas Eigenes aufzubauen. Was mich dabei immer motiviert hat, ist meine Leidenschaft für pragmatische und innovative Lösungen, sowie Dinge zu bauen, die im Alltag wirklich gebraucht werden.
+
+Zuerst habe ich Probleme für mich selbst gelöst, dann für Freunde und Familie – und heute für Unternehmen. Aus dieser Entwicklung ist MiLAB Engineering entstanden.
+
+## Kontakt
+
+📧 contact@milab-engineering.ch
+📍 Region Winterthur, Schweiz
