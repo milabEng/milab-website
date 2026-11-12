@@ -1,2 +1,14 @@
+# Site settings
 title: MiLAB Engineering
-theme: jekyll-theme-cayman
+email: contact@milab-engineering.ch
+description: >-
+  Schweizer Ingenieurslösungen, Rapid Prototyping und
+  FDM-3D-Druck für Unternehmen.
+url: "https://milab-engineering.ch"
+baseurl: ""
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
