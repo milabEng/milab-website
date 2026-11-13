@@ -1,0 +1,15 @@
+<footer class="site-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <p class="footer-info">
+                    <strong>{{ site.title }}</strong> · {{ site.author }} · {{ site.address }} · {{ site.zip_city }}<br>
+                    <a href="mailto:{{ site.email }}">{{ site.email }}</a> · {{ site.phone }}
+                </p>
+                <p class="footer-legal">
+                    © {{ site.time | date: '%Y' }} {{ site.title }}
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>

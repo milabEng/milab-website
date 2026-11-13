@@ -122,6 +122,7 @@ aside {
 header {
     position: relative;
     width: 100%;
+    overflow: hidden;        // ← ergänzen; clippt die weichgezeichneten Ränder
     min-height: auto;
 
     
@@ -291,21 +292,27 @@ header {
     }
 }
 
+#proof .lead a,
+#proof .lead a strong {
+    color: white !important;
+}
+
 .portrait-img {
     width: 350px;
+    max-width: 100%;              // nie breiter als die Spalte
     height: 350px;
     object-fit: cover;
     object-position: center 20%;    // Fokus oben, wo der Kopf sitzt
     border-radius: 50%;
-    margin: -20px 80px;
+    margin: 0 auto 30px;          // zentriert
     display: block;
 }
 
 .portfolio-img {
-    width: auto;
+    width: 100%;           // füllt die Spalte, nie breiter
+    max-width: 650px;      // oriented am portfolio-box-Mass
     height: 440px;
     object-fit: cover;
-    object-position: center 20%;    // Fokus oben, wo der Kopf sitzt
     margin: 5px auto;
     display: block;
 }
@@ -345,6 +352,38 @@ header {
 #contact .fa {
     color: $theme-dark;
     font-size: 4em;
+}
+
+// Footer / Impressum
+.site-footer {
+    background-color: $theme-dark;      // das Schwarz/Dunkel des Themes
+    color: rgba(white, .6);
+    padding: 25px 0;                    // schmal! nicht viel Platz
+
+    .footer-info {
+        margin-bottom: 5px;
+        font-size: 13px;
+        color: rgba(white, .6);
+
+        strong {
+            color: white;
+        }
+    }
+
+    a {
+        color: rgba(white, .6);
+        text-decoration: underline;
+
+        &:hover {
+            color: $theme-primary;      // Orange bei Hover — netter Touch
+        }
+    }
+
+    .footer-legal {
+        margin-bottom: 0;
+        font-size: 12px;
+        color: rgba(white, .4);
+    }
 }
 
 // Extras

@@ -1,6 +1,11 @@
 # Site settings
 title: MiLAB Engineering
 email: contact@milab-engineering.ch
+phone: "+41 79 653 82 95"
+address: "Bahnhofstrasse 10"
+zip_city: "8422 Pfungen"
+country: Schweiz
+author: Mirco Wüthrich
 description: >-
   Schweizer Ingenieurslösungen, Rapid Prototyping und
   FDM-3D-Druck für Unternehmen.
@@ -12,3 +17,4 @@ github_username:
 
 # Build settings
 markdown: kramdown
+permalink: pretty          # hübsche URLs (/impressum/ statt /impressum.html)
