@@ -1,5 +1,5 @@
 # Site settings
-title: MiLAB Engineering
+title: MiLAB Engineering — Rapid Prototyping & FDM-3D-Druck aus der Schweiz
 email: contact@milab-engineering.ch
 phone: "+41 79 653 82 95"
 address: "Bahnhofstrasse 10"
@@ -8,7 +8,7 @@ country: Schweiz
 author: Mirco Wüthrich
 description: >-
   Schweizer Ingenieurslösungen, Rapid Prototyping und
-  FDM-3D-Druck für Unternehmen.
+  FDM-3D-Druck für Unternehmen. Massgeschneiderte Prototypen in Tagen, Kleinserien ohne Werkzeugkosten.
 url: "https://milab-engineering.ch"
 baseurl: ""
 
