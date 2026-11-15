@@ -133,8 +133,8 @@ header {
         z-index: -1;
         @include background-cover;
         background-position: center;
-        background-image: url('../img/header.jpg');
-        filter: blur(4px);
+        background-image: url('../img/header_workspace.jpg');
+        filter: blur(4px) brightness(0.9);
         transform: scale(1.05); /* compensates for the faded edges the blur creates */
     }
 
@@ -151,15 +151,17 @@ header {
                 font-weight: 700;
                 margin-top: 0;
                 margin-bottom: 0;
+                text-shadow: 0 2px 8px rgba(0, 0, 0, .8);
             }
             hr {
                 margin: 30px auto;
             }
             p {
-                font-weight: 300;
-                color: rgba(white, .7);
+                font-weight: 500;
+                color: rgba(white, .9);
                 font-size: 16px;
                 margin-bottom: 50px;
+                text-shadow: 0 1px 4px rgba(0, 0, 0, .7);
             }
         }
     }
@@ -241,23 +243,6 @@ header {
             }
         }
     }
-    &:hover {
-        .portfolio-box-caption {
-            opacity: 1;
-        }
-    }
-    @media (min-width: 768px) {
-        .portfolio-box-caption {
-            .portfolio-box-caption-content {
-                .project-category {
-                    font-size: 16px;
-                }
-                .project-name {
-                    font-size: 22px;
-                }
-            }
-        }
-    }
 }
 
 .what {
@@ -297,6 +282,16 @@ header {
     color: white !important;
 }
 
+.proof-img {
+    width: 100%;           // füllt die Spalte, nie breiter
+    max-width: 100%;         // Schutz gegen natürliche Bildbreite
+    height: 440px;
+    object-fit: cover;
+    object-position: center;
+    margin: 5px auto;
+    display: block;
+}
+
 .portrait-img {
     width: 350px;
     max-width: 100%;              // nie breiter als die Spalte
@@ -305,15 +300,6 @@ header {
     object-position: center 20%;    // Fokus oben, wo der Kopf sitzt
     border-radius: 50%;
     margin: 0 auto 30px;          // zentriert
-    display: block;
-}
-
-.portfolio-img {
-    width: 100%;           // füllt die Spalte, nie breiter
-    max-width: 650px;      // oriented am portfolio-box-Mass
-    height: 440px;
-    object-fit: cover;
-    margin: 5px auto;
     display: block;
 }
 
