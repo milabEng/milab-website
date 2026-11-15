@@ -286,7 +286,7 @@ header {
     width: 100%;           // füllt die Spalte, nie breiter
     max-width: 100%;         // Schutz gegen natürliche Bildbreite
     height: 440px;
-    object-fit: cover;
+    object-fit: contain;    // gesamtes Bild sichtbar, nicht beschnitten
     object-position: center;
     margin: 5px auto;
     display: block;
